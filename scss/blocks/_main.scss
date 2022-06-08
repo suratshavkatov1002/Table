@@ -1,3 +1,20 @@
 main{
     flex-grow: 1;
 }
+
+
+.container{
+    table, th, td{
+        border: 1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    
+    
+    .colum{
+        width: 150px;
+
+    }
+}
